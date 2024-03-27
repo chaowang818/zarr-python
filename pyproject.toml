@@ -15,7 +15,7 @@ dependencies = [
     'asciitree',
     'numpy>=1.23',
     'fasteners; sys_platform != "emscripten"',
-    'numcodecs>=0.10.0',
+    #'numcodecs>=0.10.0',
 ]
 dynamic = [
   "version",
